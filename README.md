@@ -1,7 +1,7 @@
 # Curso-Python
 
 
-## Carpeta Dia 1
+## Carpeta Dia 1 python:
 
 Introducción
 
