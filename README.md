@@ -1,4 +1,4 @@
-# Curso-Python
+## Curso-Python
 Carpeta Día 1 python:
 2 EJ Jorge: Listas, operadores, condicionales
 Jorge de M4 - 01 - Python Notebook: expresiones variables
@@ -19,3 +19,12 @@ Carpeta Día 4 pyhton
  SpaceX - 2 - EDA (1).ipynb: analizamos los datos del df de spaceX y creamos columnas, limpiamos datos...
  _SpaceX - 3 -EDA Using SQL.ipynb: analizamos el df usando query en SQL
  SpaceX - 4 - EDA with Data Visualization.ipynb: Visualizacion de datos y creamos gráficas para ver esos datos representados.
+
+
+# Carpeta Dia 1
+
+Dillinger uses a number of open source projects to work properly:
+
+- 2 EJ Jorge: Listas, operadores, condicionales
+- Jorge de M4 - 01 - Python Notebook: expresiones variables
+- Copia de M4 - 03 - Condicionales: ejercicio condicionales, operadores.
