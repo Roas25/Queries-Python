@@ -1,4 +1,4 @@
-# Curso-Python
+# Curso-Python 
 
 
 ## Carpeta Dia 1 python:
