@@ -1,4 +1,4 @@
-# Curso-Python 
+# Querys-Python 
 
 
 ## Carpeta Dia 1 python:
