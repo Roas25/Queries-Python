@@ -1,4 +1,4 @@
-# Querys-Python 
+# Queries-Python 
 
 
 ## Carpeta Dia 1 python:
